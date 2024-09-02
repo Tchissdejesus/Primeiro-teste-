@@ -1,6 +1,6 @@
 # Hello World 
 ## Qualquer coisa 
 - Tchissola 
--Bernardo
--Jesus 
+- Bernardo
+- Jesus 
 - Sacuendi  
